@@ -1,0 +1,16 @@
+.main {
+    margin: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 2.5em;
+}
+
+.list-item {
+    margin: 2em 0;
+}
+
+.button-fetch {
+    width: 10em; 
+    height: 5em;
+    border-radius: 50%;
+}
