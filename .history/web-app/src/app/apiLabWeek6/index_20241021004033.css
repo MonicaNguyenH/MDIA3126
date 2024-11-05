@@ -1,0 +1,10 @@
+.main {
+    margin: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.list-item {
+
+}
